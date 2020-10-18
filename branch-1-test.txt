@@ -1,2 +1,2 @@
 Jolita mokosi GIT
-konfliktas1
+išspręstas konfliktas
